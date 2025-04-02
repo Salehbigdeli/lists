@@ -1,4 +1,4 @@
-use std::{io::Empty, mem};
+use std::mem;
 
 pub enum List0 {
     Empty,
